@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgweEmmanuel
-- 👀 I’m interested in MERN Stack for fintech, business and educational apps,
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in MERN Stack for fintech, business, and educational apps,
+- 🌱 I’m currently learning team collaboration and Software Engineering @ALX Nigeria.
 - 💞️ I’m looking to collaborate on fintech app projects and blockchain.
 - 📫 How to reach me- email me: chigozieigweemmanuel@gmail.com
 
