@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack for fintech, business, and educational apps,
 - 🌱 I’m currently learning team collaboration and Software Engineering @ALX Nigeria.
 - 💞️ I’m looking to collaborate on fintech app projects and blockchain.
-- 📫 How to reach me- email me: chigozieigweemmanuel@gmail.com | LinkedIn: https://www.linkedin.com/in/emmanuel-chigozie-966825119/
+- 📫 How to reach me- email me: chigozieigweemmanuel@gmail.com | LinkedIn: https://www.linkedin.com/in/emmanuel-igwe-966825119/ 
 
 <!---
 IgweEmmanuel/IgweEmmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
