@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgweEmmanuel
-- 👀 I’m interested in MERN Stack for fintech, business, and educational apps,
+- 👀 I’m interested in Full Stack solutions for businesss, and institutions,
 - 🌱 I’m currently learning team collaboration and Software Engineering @ALX Nigeria.
-- 💞️ I’m looking to collaborate on fintech app projects and blockchain.
+- 💞️ I’m looking to collaborate and work on projects.
 - 📫 How to reach me- email me: chigozieigweemmanuel@gmail.com | LinkedIn: https://www.linkedin.com/in/emmanuel-igwe-966825119/ 
 
 <!---
