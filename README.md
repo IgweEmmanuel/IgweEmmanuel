@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IgweEmmanuel
-- 💻 I'm a Software Engineer.
+- 💻 I'm a Software Engineer (Languages: JavaScript(React), Python(Django/Flask), C, MySQL).
 - 👀 I’m interested in providing lasting solutions to business challenges with lines of code and leadership.
 - 🌱 I love learning and I am good at team collaboration.
 - 💞️ I’m looking to collaborate and work on projects.
