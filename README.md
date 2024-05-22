@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IgweEmmanuel
-- 👀 I’m interested in Full Stack solutions for businesses, and institutions,
-- 🌱 I’m currently learning team collaboration and Software Engineering @ALX Nigeria.
+- 💻 I'm a Software Engineer (@ALX Nigeria).
+- 👀 I’m interested in providing lasting solutions to business challenges with lines of code and leadership.
+- 🌱 I love learning and I am good at team collaboration.
 - 💞️ I’m looking to collaborate and work on projects.
 - 📫 How to reach me- email me: chigozieigweemmanuel@gmail.com | LinkedIn: https://www.linkedin.com/in/emmanuel-igwe-966825119/ 
 
